@@ -1,3 +1,4 @@
+/*
 .Tabla-ingredientes{
     border: solid black 1px;
 }
@@ -8,4 +9,22 @@
 
 .Tabla-ingredientes th{
     border: solid black 1px;
+}
+
+.formulario{
+    background-color: aliceblue;
+}
+*/
+
+.Head-Tabla{
+    border-bottom: 2px black solid;
+}
+
+.Body-Tabla{
+    border-bottom: 1px solid black;
+}
+
+.formulario{
+    background-color: aliceblue;
+    margin: 20px;
 }
